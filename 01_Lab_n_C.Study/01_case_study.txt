@@ -1,0 +1,26 @@
+CASE STUDY 1:
+
+As an experienced professional in the software industry, you are currently employed at a 
+company that has developed its own software solution, integrating various 
+third-party software components. Recently, your team encountered a 
+significant challenge with one of your third-party software providers. 
+The provider notified you that they would cease support for your current implementation
+and required you to upgrade your codebase to align with their new implementation standards.
+
+This unexpected development prompted your team to reflect on your
+processes and consider preventive measures to mitigate similar challenges
+in the future. While this issue primarily concerns the third-party software
+provider, it raises questions about your approach to software integration
+and dependency management.
+
+
+QUESTION:
+
+How can you improve your communication and relationship with third-party
+software providers to stay informed about upcoming changes or updates?
+
+ANSWER:
+
+We should have a daily or maybe weekly meeting, so that we can stay in touch, and by doing so we are establishing much
+stronger connection. And even if we don't have planned meeting, don't wait for the problem
+to arise, we can already asked or look at their progress and communicate to the providers.
