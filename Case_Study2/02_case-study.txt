@@ -1,0 +1,20 @@
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering
+a cutting-edge software solution to our users and clients. The project was meticulously
+planned with a target launch date of June 1. However, as the deadline approaches,
+it becomes apparent that several tasks are still in progress, and there are unresolved
+bugs that need attention. The testing process, crucial for ensuring product quality,
+has not yet begun. As a software engineer involved in the project, what aspects could
+have been handled better to prevent the delays and issues experienced, such as incomplete
+tasks, unresolved bugs, and a delayed testing process?
+
+For this activity, evaluate the situation and offer your suggestions on areas
+where improvements could have been made.
+
+Answer: The team should have a daily or weekly meetings for their updates,
+by doing so, this will foster open communication and collaboration among the
+team members, stakeholders, and clients. Regularly communicate progress, challenges
+and changes to timelines or requirements. And for the one who is managing the team,
+they should know all potential risks and uncertainties early in the project and develop
+mitigation strategies to address them, and always remind everyone for the deadlines.
+Everyone should Prioritize and Focus, meaning prioritizing the task based on their
+importance.
